@@ -1,6 +1,6 @@
  📈 Gold Price Forecasting using Time Series Models
 
-This project aims to forecast gold prices using advanced time series techniques. It includes data preprocessing, model training, and evaluation of methods such as **ARIMA**, **SARIMA**, **LSTM**, and others to identify the best-performing approach for accurate predictions.
+This project aims to forecast gold prices using advanced time series techniques. It includes data preprocessing, model training, and evaluation of methods such as **ARIMA**, **SARIMA**, **LSTM**, **GRU** and others to identify the best-performing approach for accurate predictions.
 
 ---
 
@@ -19,7 +19,7 @@ The goal is to explore and compare different time series models to forecast gold
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Statsmodels (ARIMA/SARIMA)
-- TensorFlow / Keras (LSTM) 
+- TensorFlow / Keras (LSTM) (GRU)
 - Scikit-learn
 
 ---
@@ -34,13 +34,6 @@ The goal is to explore and compare different time series models to forecast gold
 
 ---
 
-## 📏 Evaluation Metrics
 
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-- R² Score
-
----
 
 
